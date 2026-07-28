@@ -1,16 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
-  <title id="title">PP Ark Consult and Investment</title>
-  <desc id="desc">SME advisory and business support in Ghana.</desc>
-  <rect width="1200" height="630" fill="#F7F8FA"/>
-  <circle cx="980" cy="120" r="200" fill="#2E8B83" opacity="0.1"/>
-  <circle cx="200" cy="520" r="240" fill="#2F3E8F" opacity="0.08"/>
-  <rect x="72" y="72" width="1056" height="486" rx="36" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
-  <rect x="72" y="72" width="1056" height="108" rx="36" fill="#2F3E8F"/>
-  <text x="120" y="142" fill="#FFFFFF" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="40" font-weight="800">PP Ark Consult and Investment</text>
-  <text x="120" y="268" fill="#2F3E8F" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="48" font-weight="800">Grow and operate better.</text>
-  <text x="120" y="330" fill="#6B7280" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="28" font-weight="600">Advisory, accounting, tax, SME support, Accra</text>
-  <rect x="120" y="400" width="220" height="52" rx="26" fill="#2E8B83"/>
-  <text x="150" y="434" fill="#FFFFFF" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="22" font-weight="700">020 277 6330</text>
-  <rect x="360" y="400" width="200" height="52" rx="26" fill="#D6A84F" opacity="0.9"/>
-  <text x="395" y="434" fill="#273043" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="22" font-weight="800">Ghana</text>
+  <title id="title">Rakone Systems</title>
+  <desc id="desc">Accounting and business support in Cape Coast, Ghana.</desc>
+  <rect width="1200" height="630" fill="#0B1220"/>
+  <circle cx="980" cy="120" r="200" fill="#003B8E" opacity="0.35"/>
+  <circle cx="200" cy="520" r="240" fill="#8B929E" opacity="0.15"/>
+  <rect x="72" y="72" width="1056" height="486" rx="36" fill="#111827" stroke="#1F2937" stroke-width="1"/>
+  <rect x="72" y="72" width="1056" height="108" rx="36" fill="#003B8E"/>
+  <text x="120" y="142" fill="#FFFFFF" font-family="Manrope, Inter, sans-serif" font-size="40" font-weight="800">Rakone Systems</text>
+  <text x="120" y="268" fill="#FFFFFF" font-family="Manrope, Inter, sans-serif" font-size="44" font-weight="800">Reliable accounting for</text>
+  <text x="120" y="328" fill="#B8BEC8" font-family="Manrope, Inter, sans-serif" font-size="44" font-weight="800">Cape Coast businesses</text>
+  <text x="120" y="400" fill="#8B929E" font-family="Manrope, Inter, sans-serif" font-size="24" font-weight="600">Cape Coast, Ghana. Established 2011.</text>
+  <rect x="120" y="450" width="260" height="52" rx="26" fill="#003B8E"/>
+  <text x="150" y="484" fill="#FFFFFF" font-family="Manrope, Inter, sans-serif" font-size="22" font-weight="700">024 457 5408</text>
 </svg>

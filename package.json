@@ -1,5 +1,9 @@
 {
-  "name": "pp-ark-consult",
+  "name": "rakone-systems",
   "private": true,
-  "description": "PP Ark Consult and Investment — static marketing site"
+  "description": "Rakone Systems — accounting and business support, Cape Coast, Ghana",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "start": "npx --yes serve . -l 3000"
+  }
 }

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pparkconsult.com/sitemap.xml
+Sitemap: https://rakonesystems.com/sitemap.xml
