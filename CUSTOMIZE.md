@@ -1,27 +1,30 @@
-# Rakone Systems — Site Notes
+# Echelon Professional Institute — Demo LMS
 
-## Brand colours
-| Token | Hex | Use |
-| --- | --- | --- |
-| Primary blue | `#003B8E` | CTAs, headings accent, borders |
-| Primary light | `#1A56B0` | Hover states |
-| Silver | `#8B929E` | Secondary text, accents |
-| Accent silver | `#B8BEC8` | Soft highlights |
-| Surface | `#F3F5F8` | Page background |
-| Ink | `#0B1220` | Body headings |
+Prototype for founders. All state lives in the browser (`localStorage`). No backend.
 
-## Contact (directory-listed)
-- 024 457 5408 / +233 244 575 408
-- 050 740 4360 / +233 507 404 360
-- Adisadel / Siwdu, Cape Coast — near Total Filling Station
+## Run
 
-## Assets
-- Logo: `public/logo.png`
-- Hero: `public/hero-bg.png` (replace with Cape Coast / office photography when available)
-- OG: `public/og-image.svg`
-
-## Local preview
 ```bash
+npm install
 npm run dev
 ```
-Then open http://localhost:3000
+
+## Demo accounts
+
+| Role | Email | Password |
+| --- | --- | --- |
+| Student | `ama@student.gh` | `demo123` |
+| Student | `kwame@student.gh` | `demo123` |
+| Admin | `admin@echelon.edu.gh` | `admin123` |
+
+## Surfaces
+
+- `/` — branded public site
+- `/courses` — programmes & pricing
+- `/book` — book call or tutorial
+- `/learn` — student portal
+- `/admin` — institute console
+
+## Reset
+
+Admin sidebar → **Reset demo data**, or clear `localStorage` key `echelon-lms-demo-v1`.
